@@ -13,6 +13,7 @@ custom:
 
 plugins:
   - serverless-iam-roles-per-function
+  
 functions:
   getPost:
     handler: api.getPost
