@@ -12,7 +12,7 @@ custom:
   postsTableName: posts-table-${self:provider.stage}
 
 plugins:
- # - serverless-iam-roles-per-function
+  - serverless-iam-roles-per-function
   
 functions:
   getPost:
