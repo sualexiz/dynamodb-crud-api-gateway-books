@@ -1,3 +1,3 @@
 # DynamoDB CRUD API usando API Gateway y AWS Lambda
- Prueba técnica
+ Prueba técnica Banco
 
